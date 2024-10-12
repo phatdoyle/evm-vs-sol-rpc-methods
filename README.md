@@ -64,7 +64,7 @@ ETHEREUM_RPC_URL = "YOUR RPC URL"
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to this project, please feel free to submit a pull request or open an issue on GitHub.
+Contributions are welcome! If you'd like to contribute to this project, please feel free to submit a pull request or open an issue on GitHub. Or feel free to [DM me on X](https://x.com/doyle126)
 
 ## License
 
